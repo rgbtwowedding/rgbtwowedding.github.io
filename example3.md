@@ -138,18 +138,18 @@ permalink: /products/
               <tbody>
                 <tr>
                   <td>패키지 A</td>
-                  <td>필수적인 것들!</td>
-                  <td>40 만원</td>
+                  <td>Essential Package <br> 필수적인 것들만 담았습니다.</td>
+                  <td>$ 400</td>
                 </tr>
                 <tr>
                   <td>패키지 B</td>
-                  <td>All inclusive - 실속 패키지</td>
-                  <td>90 만원</td>
+                  <td>Wedding Package <br> 실속 패키지</td>
+                  <td>$ 900</td>
                 </tr>
                 <tr>
                   <td>패키지 C</td>
-                  <td>All inclusive - 호화 패키지</td>
-                  <td>150 만원</td>
+                  <td>All inclusive <br> 호화 패키지</td>
+                  <td>$ 1500</td>
                 </tr>
               </tbody>
             </table>
