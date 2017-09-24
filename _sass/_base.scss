@@ -247,7 +247,7 @@ header {
             top: 50%;
             transform: translateY(-50%);
             .project-category,
-            .project-name {
+            .reviews {
                 @include sans-serif-font;
                 padding: 0 15px;
             }
@@ -256,8 +256,9 @@ header {
                 font-weight: 600;
                 font-size: 14px;
             }
-            .project-name {
-                font-size: 18px;
+            .reviews {
+                font-size: 16px;
+                font-style: italic;
             }
         }
     }
@@ -272,8 +273,9 @@ header {
                 .project-category {
                     font-size: 16px;
                 }
-                .project-name {
+                .reviews {
                     font-size: 22px;
+                    font-style: italic;
                 }
             }
         }
